@@ -1,9 +1,9 @@
 import React from "react";
 import blogData from "../data/blog";
 
-import Header from "./Header.tsx";
-import About from "./About.tsx";
-import ArticleList from "./ArticleList.tsx";
+import Header from "./Header.js";
+import About from "./About.js";
+import ArticleList from "./ArticleList.js";
 
 function App() {
   return (
